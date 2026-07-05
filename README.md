@@ -10,9 +10,9 @@ Experienced in building recommendation engines, predictive models, and interacti
 
 ## Connect
 
-Portfolio: https://nankar-kalpesh.vercel.app/
-LinkedIn: https://www.linkedin.com/in/kalpesh-nankar-0b485829a
-Email: nankarkalpesh08@gmail.com
+- Portfolio: https://nankar-kalpesh.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/kalpesh-nankar-0b485829a
+- Email: nankarkalpesh08@gmail.com
 
 ---
 
