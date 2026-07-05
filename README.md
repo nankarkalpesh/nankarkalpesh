@@ -1,11 +1,8 @@
-Here's the raw markdown — copy everything between the lines below and paste it directly into your `README.md` on GitHub:
-
-````markdown
 # Kalpesh Nankar
 
 **Data Analyst | Aspiring Data Scientist & AI/ML Engineer**
 
-Computer Engineering undergraduate (Final year, GTU) building end-to-end data-driven applications — from data cleaning and modeling to deployment — across NLP, regression, and BI dashboards.
+Computer Engineering undergraduate (6th Semester, GTU) building end-to-end data-driven applications — from data cleaning and modeling to deployment — across NLP, regression, and BI dashboards.
 
 Experienced in building recommendation engines, predictive models, and interactive Power BI dashboards focused on solving real-world problems.
 
@@ -86,6 +83,3 @@ Tech: Power BI, DAX
 ---
 
 Open to Data Analyst / Data Science internships — Surat, Gujarat or Remote.
-````
-
-The file is also attached above if you'd rather download and upload it directly instead of copy-pasting.
