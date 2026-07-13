@@ -2,7 +2,7 @@
 
 **Data Analyst | Aspiring Data Scientist & AI/ML Engineer**
 
-Computer Engineering undergraduate (6th Semester, GTU) building end-to-end data-driven applications — from data cleaning and modeling to deployment — across NLP, regression, and BI dashboards.
+Computer Engineering undergraduate (Final year, GTU) building end-to-end data-driven applications — from data cleaning and modeling to deployment — across NLP, regression, and BI dashboards.
 
 Experienced in building recommendation engines, predictive models, and interactive Power BI dashboards focused on solving real-world problems.
 
